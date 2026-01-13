@@ -2,6 +2,7 @@
 Explore how financial factors like income, economic performance, and the volatility of the financial market affect heart disease death rate in the United States. Our goal is to identify if better health outcomes are associated with financial stability and well-being, or conversely, if financial instability could lead to a higher death rate.
 
 H1: County-level economic stress—measured by GDP growth, unemployment, and uninsured rates—is linked to age-adjusted heart-disease mortality in the U.S.
+
 H2: Counties (or states) with higher median household income have lower age-adjusted heart disease mortality rates.
 H3: Greater exposure to market volatility is linked to bigger rises in heart-disease mortality during economic crises.
 
