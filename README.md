@@ -26,4 +26,4 @@ FRED: Like the median household income and the percentage of GDP rise each year,
 
 
 
-Note: please disregard the initial error as it would require me to upload all the project dataset.
+Note: please disregard the initial error on the Juypter notebook as it may require me to upload all the project dataset.
